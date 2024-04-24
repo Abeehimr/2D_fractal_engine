@@ -8,7 +8,6 @@ This repository contains a Python 2D fractal engine implemented using Pygame. It
 2. [Usage](#usage)
 3. [File Structure](#file-structure)
 4. [Dependencies](#dependencies)
-5. [License](#license)
 
 ## Introduction
 
